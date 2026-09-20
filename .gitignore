@@ -1,0 +1,7 @@
+*.egg-info/
+PKG-INFO
+.venv/
+venv/
+.direnv/
+.envrc
+result
